@@ -1,3 +1,3 @@
-#Music sync mod
+Music Sync Mod
 The reason is that there is no other Mod like this out there.
 Even though Megahack has it(Auto music sync) you have to pay for it...
